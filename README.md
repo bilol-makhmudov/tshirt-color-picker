@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# T-Shirt Color picker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React application that allows users to select a color and apply it to an SVG illustration of a T-shirt. It was created to practice using the useState hook in React and to explore some components of Bootstrap.
 
 ## Available Scripts
 
