@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.075ebf83.css",
-    "main.js": "/static/js/main.a4a381e3.js",
-    "static/js/453.351fa4f2.chunk.js": "/static/js/453.351fa4f2.chunk.js",
-    "index.html": "/index.html",
-    "main.075ebf83.css.map": "/static/css/main.075ebf83.css.map",
-    "main.a4a381e3.js.map": "/static/js/main.a4a381e3.js.map",
-    "453.351fa4f2.chunk.js.map": "/static/js/453.351fa4f2.chunk.js.map"
+    "main.css": "/tshirt-color-picker/static/css/main.075ebf83.css",
+    "main.js": "/tshirt-color-picker/static/js/main.3100a17b.js",
+    "static/js/453.351fa4f2.chunk.js": "/tshirt-color-picker/static/js/453.351fa4f2.chunk.js",
+    "index.html": "/tshirt-color-picker/index.html",
+    "main.075ebf83.css.map": "/tshirt-color-picker/static/css/main.075ebf83.css.map",
+    "main.3100a17b.js.map": "/tshirt-color-picker/static/js/main.3100a17b.js.map",
+    "453.351fa4f2.chunk.js.map": "/tshirt-color-picker/static/js/453.351fa4f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.075ebf83.css",
-    "static/js/main.a4a381e3.js"
+    "static/js/main.3100a17b.js"
   ]
 }
