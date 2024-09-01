@@ -1,0 +1,262 @@
+{
+    "blacks": [
+      {
+        "name": "Black",
+        "hex": "000000"
+      }
+    ],
+    "whites": [
+      {
+        "name": "White",
+        "hex": "ffffff"
+      }
+    ],
+    "greys": [
+      {
+        "name": "Grey",
+        "hex": "dedede"
+      },
+      {
+        "name": "Warm Grey",
+        "hex": "958a7f"
+      },
+      {
+        "name": "Smoke",
+        "hex": "373635"
+      },
+      {
+        "name": "Heavy Metal",
+        "hex": "525456"
+      },
+      {
+        "name": "Asphalt",
+        "hex": "5e5e5e"
+      },
+      {
+        "name": "Slate",
+        "hex": "939495"
+      },
+      {
+        "name": "Stone",
+        "hex": "eae2dc"
+      },
+      {
+        "name": "Graphite",
+        "hex": "ababab"
+      },
+      {
+        "name": "Venetian Grey",
+        "hex": "747163"
+      }
+    ],
+    "yellows": [
+      {
+        "name": "Vibrant Yellow",
+        "hex": "f6e44a"
+      },
+      {
+        "name": "Light Yellow",
+        "hex": "fdeb71"
+      },
+      {
+        "name": "Lemon",
+        "hex": "fdf882"
+      },
+      {
+        "name": "Gold",
+        "hex": "f4a323"
+      },
+      {
+        "name": "Canary",
+        "hex": "fff98a"
+      }
+    ],
+    "blues": [
+      {
+        "name": "Royal Blue",
+        "hex": "20419a"
+      },
+      {
+        "name": "Midnight",
+        "hex": "1f2331"
+      },
+      {
+        "name": "Turquoise",
+        "hex": "046489"
+      },
+      {
+        "name": "Cancun",
+        "hex": "9ce6f1"
+      },
+      {
+        "name": "Pacific Blue",
+        "hex": "27c1ca"
+      },
+      {
+        "name": "Cyan",
+        "hex": "0ca2bc"
+      },
+      {
+        "name": "Blue Jean",
+        "hex": "374650"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "8aadc5"
+      },
+      {
+        "name": "Navy",
+        "hex": "171c32"
+      },
+      {
+        "name": "Baby Blue",
+        "hex": "c7dce7"
+      },
+      {
+        "name": "Denim",
+        "hex": "353f4b"
+      }
+    ],
+    "oranges": [
+      {
+        "name": "Orange",
+        "hex": "ff7700"
+      },
+      {
+        "name": "Orange Poppy",
+        "hex": "ef510d"
+      }
+    ],
+    "greens": [
+      {
+        "name": "Kelly Green",
+        "hex": "02642e"
+      },
+      {
+        "name": "Light Olive",
+        "hex": "767965"
+      },
+      {
+        "name": "Clover",
+        "hex": "437f2d"
+      },
+      {
+        "name": "Neon Green",
+        "hex": "c3f17a"
+      },
+      {
+        "name": "Olive",
+        "hex": "645f3f"
+      },
+      {
+        "name": "Leaf",
+        "hex": "44812e"
+      },
+      {
+        "name": "Grass",
+        "hex": "6fcf91"
+      },
+      {
+        "name": "Tri-Kelly",
+        "hex": "00b064"
+      },
+      {
+        "name": "Mint",
+        "hex": "b1ebc5"
+      }
+    ],
+    "reds": [
+      {
+        "name": "Red",
+        "hex": "b51717"
+      },
+      {
+        "name": "Scarlet Red",
+        "hex": "821d2b"
+      },
+      {
+        "name": "Maroon",
+        "hex": "3f1924"
+      },
+      {
+        "name": "Dark Red",
+        "hex": "63243f"
+      },
+      {
+        "name": "Chili",
+        "hex": "cf4848"
+      },
+      {
+        "name": "Tri Cranberry",
+        "hex": "48052c"
+      }
+    ],
+    "browns": [
+      {
+        "name": "Brown",
+        "hex": "60371f"
+      },
+      {
+        "name": "Chocolate",
+        "hex": "281a12"
+      }
+    ],
+    "pinks": [
+      {
+        "name": "Light Pink",
+        "hex": "fdaebd"
+      },
+      {
+        "name": "Pink",
+        "hex": "ffc2c4"
+      },
+      {
+        "name": "Fuchsia",
+        "hex": "f34976"
+      },
+      {
+        "name": "Coral",
+        "hex": "fb6863"
+      },
+      {
+        "name": "Hot Pink",
+        "hex": "ff5eae7"
+      },
+      {
+        "name": "Cotton Candy",
+        "hex": "dd7db6"
+      }
+    ],
+    "purples": [
+      {
+        "name": "Purple",
+        "hex": "5e3a8c"
+      },
+      {
+        "name": "Plum",
+        "hex": "271b22"
+      },
+      {
+        "name": "Tri-Purple",
+        "hex": "55387a"
+      },
+      {
+        "name": "Tri-Orchid",
+        "hex": "8063d5"
+      },
+      {
+        "name": "Dark Purple",
+        "hex": "34101b"
+      }
+    ],
+    "ivories": [
+      {
+        "name": "Natural",
+        "hex": "f3eed7"
+      },
+      {
+        "name": "Heather Oatmeal",
+        "hex": "f9f5ea"
+      }
+    ]
+  }
